@@ -5,7 +5,7 @@ import NextTopLoader from "nextjs-toploader";
 
 export const metadata = {
   title: "CU Connect by Kapil Thakur",
-  description: "Social networking site by Abdul Rehman in NextJs, MERN STACK",
+  description: "Social networking site by Kapil Thakur in NextJs, MERN STACK",
 };
 
 export default function RootLayout({ children }) {
