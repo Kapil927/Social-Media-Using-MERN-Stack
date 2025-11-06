@@ -4,7 +4,7 @@ import "./globals.css";
 import NextTopLoader from "nextjs-toploader";
 
 export const metadata = {
-  title: "Social Networking Site - Abdul Rehman",
+  title: "CU Connect by Kapil Thakur",
   description: "Social networking site by Abdul Rehman in NextJs, MERN STACK",
 };
 
